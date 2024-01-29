@@ -17,3 +17,5 @@
 
 ### Languages and Tools
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,wordpress,php,laravel,mysql,git,github,vscode,figma,nodejs,">
+
+![Rafipranata's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafipranata&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
