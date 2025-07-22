@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **| Website Statis & Dinamis**
 
-- 📫 How to reach me **banjardawa34@gmail.com**
+- 📫 How to reach me **rafi.pranata25@gmail.com**
 
 ### Languages and Tools
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,wordpress,php,laravel,mysql,git,github,vscode,nextjs,nodejs,">
